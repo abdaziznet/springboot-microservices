@@ -1,0 +1,45 @@
+# Maven target directory
+/target/
+
+# Maven wrapper
+/.mvn/wrapper/
+
+# IntelliJ IDEA files
+.idea/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Compiled Java classes
+*.class
+
+# Logs
+*.log
+
+# Spring Boot application properties
+/application.properties
+
+# Spring Boot devtools properties
+/spring-boot-devtools.properties
+
+# Maven specific files
+*.iml
+*.ipr
+*.iws
+*.eml
+
+# Compiled JAR or WAR files
+*.jar
+*.war
+
+# IntelliJ IDEA code style settings
+.idea/codeStyles/
+*.editorconfig
+
+# Spring Boot Gradle Plugin
+.gradle/
+
+# MacOS-specific files
+.DS_Store
